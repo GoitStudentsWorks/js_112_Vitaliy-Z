@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-portfolio/",
+    "build": "vite build --base=/js_112_Vitaliy-Z/",
     "preview": "vite preview"
   },
   "devDependencies": {
